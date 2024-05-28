@@ -62,6 +62,8 @@ function foo(bar: ref int)
 end
 ```
 
+> TODO: I'm not sure about this syntax, it's weird, but in a way descriptive..
+
 Some elements in Toast are always `ref`, just like in C:
 * Strings
 * Function references
